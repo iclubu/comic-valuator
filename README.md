@@ -7,6 +7,9 @@ guide values — so you know what your books are genuinely worth today.
 Built specifically around a CLZ CovrPrice CSV export with full support
 for raw and graded (CGC/CBCS) comics stored in GC boxes.
 
+
+<img width="1899" height="892" alt="Screenshot 2026-06-13 at 11 06 08 PM" src="https://github.com/user-attachments/assets/79999102-3124-456c-8a25-0aa146ccf9b8" />
+
 ---
 
 ## 🗂 Project Structure
