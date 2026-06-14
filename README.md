@@ -52,11 +52,11 @@ EBAY_CLIENT_SECRET=PRD-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### 5. Shell Alias (already set up)
 ```bash
-alias comics='cd /Users/mr.jeeps/Documents/Projects/Comic-Valuator && source venv/bin/activate && python3 -m streamlit run app.py'
+alias comics='cd /Users/Projects/Comic-Valuator && source venv/bin/activate && python3 -m streamlit run app.py'
 ```
 Make it permanent:
 ```bash
-echo 'alias comics="cd /Users/mr.jeeps/Documents/Projects/Comic-Valuator && source venv/bin/activate && python3 -m streamlit run app.py"' >> ~/.zshrc
+echo 'alias comics="cd /Users/Projects/Comic-Valuator && source venv/bin/activate && python3 -m streamlit run app.py"' >> ~/.zshrc
 source ~/.zshrc
 ```
 
