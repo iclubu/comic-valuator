@@ -37,7 +37,7 @@ for raw and graded (CGC/CBCS) comics stored in GC boxes.
 
 ### 3. Environment Setup
 ```bash
-cd /Users/mr.jeeps/Documents/Projects/Comic-Valuator
+cd /Users/Projects/Comic-Valuator
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
