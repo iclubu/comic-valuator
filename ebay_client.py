@@ -1,4 +1,4 @@
-
+"""
 ebay_client.py
 eBay Browse API client — handles OAuth token management and sold listing search.
 Uses Production credentials from .env file.
