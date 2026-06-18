@@ -1,4 +1,4 @@
-# 📚 Comic Valuator
+# 📚 Comic Valuator (Work in Progress) (Not able to Extract sold prices)
 
 A real-time eBay market valuation tool for your CLZ comic collection.
 Pulls actual **sold** listing prices from eBay — not asking prices, not
