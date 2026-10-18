@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Comic Inventory Bridge",
+  "version": "1.6",
+  "description": "Sends the eBay Product Research page you are viewing to your local comic inventory page.",
+  "permissions": [
+    "scripting"
+  ],
+  "host_permissions": [
+    "http://localhost:8765/*",
+    "http://127.0.0.1:8765/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.ebay.com/sh/research*"
+      ],
+      "js": [
+        "research.js"
+      ]
+    },
+    {
+      "matches": [
+        "http://localhost:8765/*",
+        "http://127.0.0.1:8765/*"
+      ],
+      "js": [
+        "inventory.js"
+      ]
+    }
+  ]
+}

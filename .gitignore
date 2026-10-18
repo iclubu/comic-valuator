@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# YOUR PRIVATE DATA - never commit these. The generated page embeds your whole inventory.
+*.xml
+!sample/sample_export.xml
+*.csv
+comic_inventory.html
+comic_cache.db
+debug_html/
+
+# OS / editors / tooling
+.DS_Store
+.idea/
+.vscode/
+node_modules/

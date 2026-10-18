@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collectorz><response/><meta/><data>
+<comic>
+<mainsection><series><displayname>Captain Comet Adventures</displayname></series></mainsection>
+<issuenr>1</issuenr>
+<edition><displayname>Regular Cover</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>1</quantity>
+<location><displayname>3</displayname></location>
+<iskeycomic listid="0">No</iskeycomic>
+</comic>
+<comic>
+<mainsection><series><displayname>Captain Comet Adventures</displayname></series></mainsection>
+<issuenr>1</issuenr>
+<edition><displayname>Regular Cover</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>1</quantity>
+<location><displayname>12</displayname></location>
+<iskeycomic listid="0">No</iskeycomic>
+</comic>
+<comic>
+<mainsection><series><displayname>Captain Comet Adventures</displayname></series></mainsection>
+<issuenr>1</issuenr>
+<edition><displayname>Retailer Variant</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>1</quantity>
+<location><displayname>3</displayname></location>
+<iskeycomic listid="1">Minor</iskeycomic>
+<keycomicreason>1st appearance of Doctor Nebula</keycomicreason>
+<signees><signee><displayname>Jane Artist</displayname></signee></signees>
+</comic>
+<comic>
+<mainsection><series><displayname>Captain Comet Adventures</displayname></series></mainsection>
+<issuenr>2</issuenr>
+<edition><displayname>Regular Cover</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>2</quantity>
+<location><displayname>3</displayname></location>
+<iskeycomic listid="0">No</iskeycomic>
+</comic>
+<comic>
+<mainsection><series><displayname>Captain Comet Adventures</displayname></series></mainsection>
+<issuenr>3</issuenr>
+<edition><displayname>Regular Cover</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>1</quantity>
+<location><displayname>A7</displayname></location>
+<iskeycomic listid="0">No</iskeycomic>
+</comic>
+<comic>
+<mainsection><series><displayname>The Night Owl</displayname></series></mainsection>
+<issuenr>1</issuenr>
+<edition><displayname>Cover A</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>1</quantity>
+<location><displayname>5</displayname></location>
+<iskeycomic listid="2">Major</iskeycomic>
+<keycomicreason>1st appearance of the Night Owl</keycomicreason>
+<grade><displayname>9.8 Near Mint/Mint</displayname></grade>
+<isslabbed boolvalue="1">Slabbed</isslabbed>
+<gradingcompany><displayname>CGC</displayname></gradingcompany>
+</comic>
+<comic>
+<mainsection><series><displayname>The Night Owl</displayname></series></mainsection>
+<issuenr>1</issuenr>
+<edition><displayname>Cover A</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>1</quantity>
+<location><displayname>5</displayname></location>
+<iskeycomic listid="2">Major</iskeycomic>
+<keycomicreason>1st appearance of the Night Owl</keycomicreason>
+</comic>
+<comic>
+<mainsection><series><displayname>The Night Owl</displayname></series></mainsection>
+<issuenr>2</issuenr>
+<edition><displayname>Cover B</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>1</quantity>
+<location><displayname>5</displayname></location>
+<iskeycomic listid="0">No</iskeycomic>
+<grade><displayname>9.6 Near Mint +</displayname></grade>
+<isslabbed boolvalue="1">Slabbed</isslabbed>
+<gradingcompany><displayname>CBCS</displayname></gradingcompany>
+<signees><signee><displayname>Sam Writer</displayname></signee></signees>
+</comic>
+<comic>
+<mainsection><series><displayname>The Night Owl</displayname></series></mainsection>
+<issuenr>3</issuenr>
+<edition><displayname>Cover A</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>1</quantity>
+<iskeycomic listid="0">No</iskeycomic>
+</comic>
+<comic>
+<mainsection><series><displayname>Starlight Squad</displayname></series></mainsection>
+<issuenr>10</issuenr>
+<edition><displayname>Regular Cover</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>1</quantity>
+<location><displayname>21</displayname></location>
+<iskeycomic listid="0">No</iskeycomic>
+<signees><signee><displayname>Jane Artist</displayname></signee><signee><displayname>Sam Writer</displayname></signee></signees>
+</comic>
+<comic>
+<mainsection><series><displayname>Starlight Squad</displayname></series></mainsection>
+<issuenr>10</issuenr>
+<edition><displayname>Regular Cover</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>1</quantity>
+<location><displayname>8</displayname></location>
+<iskeycomic listid="0">No</iskeycomic>
+</comic>
+<comic>
+<mainsection><series><displayname>Starlight Squad</displayname></series></mainsection>
+<issuenr>11</issuenr>
+<edition><displayname>Regular Cover</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>1</quantity>
+<location><displayname>21</displayname></location>
+<iskeycomic listid="0">No</iskeycomic>
+</comic>
+<comic>
+<mainsection><series><displayname>Starlight Squad Annual</displayname></series></mainsection>
+<edition><displayname>Special Edition</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>1</quantity>
+<location><displayname>8</displayname></location>
+<iskeycomic listid="0">No</iskeycomic>
+</comic>
+<comic>
+<mainsection><series><displayname>Tiny Robots</displayname></series></mainsection>
+<issuenr>1</issuenr>
+<edition><displayname>Foil Variant</displayname></edition>
+<publisher><displayname>Sample Press</displayname></publisher>
+<coverfrontdefault></coverfrontdefault>
+<quantity>1</quantity>
+<location><displayname>12</displayname></location>
+<iskeycomic listid="0">No</iskeycomic>
+<grade><displayname>9.4 Near Mint -</displayname></grade>
+<isslabbed boolvalue="1">Slabbed</isslabbed>
+<gradingcompany><displayname>CBCS</displayname></gradingcompany>
+</comic>
+</data></collectorz>
