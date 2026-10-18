@@ -8,6 +8,12 @@ bottom panel with their photos. Untick the wrong covers, lots and grades, and sa
 
 > Everything runs on your computer. Nothing is uploaded anywhere, and no eBay login or API key is used or stored.
 
+
+<img width="2352" height="1067" alt="Screenshot 2026-10-17 at 7 32 06 PM" src="https://github.com/user-attachments/assets/375b7361-ead8-4dd9-908f-fc0708d6eb7c" />
+Pulled from Ebay sold listing
+<img width="2342" height="1044" alt="Screenshot 2026-10-17 at 7 32 27 PM" src="https://github.com/user-attachments/assets/b8a14db6-d082-4779-b47e-e4c629e89e22" />
+
+
 ## What you get
 
 - **Inventory list** built from your XML export: search by series, issue, variant, box or signer.
